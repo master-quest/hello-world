@@ -7,6 +7,8 @@ HTML
 CSS
 JavaScript
 PHP
+Wordpress
+Relational Databases
+Python 
 
-Enjoy Learning
-Thanks :)
+Done with FInal Changes
