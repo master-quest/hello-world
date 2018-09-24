@@ -9,5 +9,6 @@ JavaScript
 PHP
 Wordpress
 Relational Databases
+Python 
 
-Changes Made Temporarily
+Done with FInal Changes
