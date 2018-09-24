@@ -6,3 +6,4 @@ Courses Offered:
 HTML
 CSS
 JavaScript
+PHP
